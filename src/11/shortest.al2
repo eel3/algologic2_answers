@@ -1,0 +1,9 @@
+# 11 - ELSEを使う
+
+loop infinity {
+  if face_wall {
+    turn left
+  } else {
+    move 1
+  }
+}

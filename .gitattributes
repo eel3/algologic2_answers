@@ -1,0 +1,5 @@
+src/**      text eol=lf   encoding=utf-8-unix
+
+.gitignore  text eol=lf   encoding=utf-8-unix
+LICENSE     text eol=lf   encoding=utf-8-unix
+README.md   text eol=lf   encoding=utf-8-unix

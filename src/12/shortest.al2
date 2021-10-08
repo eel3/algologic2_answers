@@ -1,0 +1,9 @@
+# 12 - IFを使う2
+
+loop infinity {
+  turn right
+  if face_wall {
+    turn left
+  }
+  move 1
+}

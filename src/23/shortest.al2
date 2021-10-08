@@ -1,0 +1,10 @@
+# 23 - 秘密の部屋
+
+loop infinity {
+  if face_wall {
+    turn left
+  } else {
+    move 1
+    turn right
+  }
+}

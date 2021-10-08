@@ -1,0 +1,8 @@
+# 07 - 四角の旗
+
+loop 4 {
+  loop 3 {
+    move 1
+  }
+  turn right
+}

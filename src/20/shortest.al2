@@ -1,0 +1,9 @@
+# 20 - 全部
+
+loop 4 {
+  move 2
+  loop 3 {
+    turn left
+    move 1
+  }
+}

@@ -1,0 +1,12 @@
+# 24 - 秘密の部屋2
+
+loop infinity {
+  if face_wall {
+    turn around
+    if face_wall {
+      turn right
+    }
+  }
+  move 1
+  turn right
+}

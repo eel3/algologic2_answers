@@ -1,0 +1,8 @@
+# 14 - 知恵の輪
+
+loop infinity {
+  move 2
+  if face_wall {
+    turn right
+  }
+}

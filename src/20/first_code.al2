@@ -1,0 +1,13 @@
+# 20 - 全部
+
+loop infinity {
+  loop 3 {
+    turn left
+    if face_wall {
+      turn around
+    } else {
+      move 1
+    }
+  }
+  turn around
+}

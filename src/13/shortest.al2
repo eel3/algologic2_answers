@@ -1,0 +1,8 @@
+# 13 - 十字
+
+loop 4 {
+  move 2
+  turn around
+  move 2
+  turn right
+}

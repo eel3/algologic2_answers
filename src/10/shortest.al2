@@ -1,0 +1,8 @@
+# 10 - Uターン3
+
+loop infinity {
+  if face_wall {
+    turn right
+  }
+  move 1
+}
