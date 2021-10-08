@@ -34,7 +34,7 @@ CC0 1.0 Universal
 * `left`
     * 左に方向転換する。
 
-### `loop <infinity|1|2|3|4>` {
+### `loop <infinity|1|2|3|4> {`
 
 ループコマンドブロック。
 
